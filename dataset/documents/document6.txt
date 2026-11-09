@@ -1,0 +1,1 @@
+Student Performance Analysis uses educational data to understand academic progress. Teachers can analyze examination marks, attendance records, assignment scores, and learning activities to identify students who need support.

@@ -1,0 +1,1 @@
+Natural Language Processing allows computers to understand and generate human language. Educational applications include chatbots, grammar correction, automatic translation, and question-answering systems.

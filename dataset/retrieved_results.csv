@@ -1,0 +1,101 @@
+Query_ID,Query,Search_Method,Rank,Document_ID,Title,Similarity_Score
+1,How does artificial intelligence improve education?,Semantic Search,1,doc_1,Document 1,0.6627
+1,How does artificial intelligence improve education?,Semantic Search,2,doc_2,Document 10,0.6302
+1,How does artificial intelligence improve education?,Semantic Search,3,doc_8,Document 7,0.5466
+1,How does artificial intelligence improve education?,Semantic Search,4,doc_5,Document 4,0.5052
+1,How does artificial intelligence improve education?,Semantic Search,5,doc_3,Document 2,0.4939
+1,How does artificial intelligence improve education?,Keyword Search,1,doc_1,Document 1,0.3126
+1,How does artificial intelligence improve education?,Keyword Search,2,doc_2,Document 10,0.2253
+1,How does artificial intelligence improve education?,Keyword Search,3,doc_3,Document 2,0.21
+1,How does artificial intelligence improve education?,Keyword Search,4,doc_10,Document 9,0.2035
+1,How does artificial intelligence improve education?,Keyword Search,5,doc_8,Document 7,0.1567
+2,What is machine learning and how is it used?,Semantic Search,1,doc_3,Document 2,0.7983
+2,What is machine learning and how is it used?,Semantic Search,2,doc_4,Document 3,0.4464
+2,What is machine learning and how is it used?,Semantic Search,3,doc_1,Document 1,0.4201
+2,What is machine learning and how is it used?,Semantic Search,4,doc_5,Document 4,0.38
+2,What is machine learning and how is it used?,Semantic Search,5,doc_10,Document 9,0.37
+2,What is machine learning and how is it used?,Keyword Search,1,doc_3,Document 2,0.566
+2,What is machine learning and how is it used?,Keyword Search,2,doc_1,Document 1,0.121
+2,What is machine learning and how is it used?,Keyword Search,3,doc_8,Document 7,0.0499
+2,What is machine learning and how is it used?,Keyword Search,4,doc_4,Document 3,0.047
+2,What is machine learning and how is it used?,Keyword Search,5,doc_2,Document 10,0.0462
+3,Explain deep learning applications.,Semantic Search,1,doc_4,Document 3,0.6664
+3,Explain deep learning applications.,Semantic Search,2,doc_3,Document 2,0.4334
+3,Explain deep learning applications.,Semantic Search,3,doc_5,Document 4,0.4074
+3,Explain deep learning applications.,Semantic Search,4,doc_1,Document 1,0.3317
+3,Explain deep learning applications.,Semantic Search,5,doc_10,Document 9,0.2685
+3,Explain deep learning applications.,Keyword Search,1,doc_4,Document 3,0.2934
+3,Explain deep learning applications.,Keyword Search,2,doc_9,Document 8,0.1489
+3,Explain deep learning applications.,Keyword Search,3,doc_5,Document 4,0.1031
+3,Explain deep learning applications.,Keyword Search,4,doc_3,Document 2,0.0827
+3,Explain deep learning applications.,Keyword Search,5,doc_1,Document 1,0.0774
+4,How does NLP help students?,Semantic Search,1,doc_5,Document 4,0.5528
+4,How does NLP help students?,Semantic Search,2,doc_9,Document 8,0.4835
+4,How does NLP help students?,Semantic Search,3,doc_8,Document 7,0.4048
+4,How does NLP help students?,Semantic Search,4,doc_1,Document 1,0.3832
+4,How does NLP help students?,Semantic Search,5,doc_7,Document 6,0.3811
+4,How does NLP help students?,Keyword Search,1,doc_6,Document 5,0.316
+4,How does NLP help students?,Keyword Search,2,doc_8,Document 7,0.1831
+4,How does NLP help students?,Keyword Search,3,doc_9,Document 8,0.1683
+4,How does NLP help students?,Keyword Search,4,doc_7,Document 6,0.1615
+4,How does NLP help students?,Keyword Search,5,doc_10,Document 9,0.0
+5,What are the benefits of online learning?,Semantic Search,1,doc_6,Document 5,0.7294
+5,What are the benefits of online learning?,Semantic Search,2,doc_1,Document 1,0.3628
+5,What are the benefits of online learning?,Semantic Search,3,doc_10,Document 9,0.3266
+5,What are the benefits of online learning?,Semantic Search,4,doc_2,Document 10,0.3117
+5,What are the benefits of online learning?,Semantic Search,5,doc_5,Document 4,0.3109
+5,What are the benefits of online learning?,Keyword Search,1,doc_6,Document 5,0.2615
+5,What are the benefits of online learning?,Keyword Search,2,doc_3,Document 2,0.1291
+5,What are the benefits of online learning?,Keyword Search,3,doc_1,Document 1,0.121
+5,What are the benefits of online learning?,Keyword Search,4,doc_8,Document 7,0.0499
+5,What are the benefits of online learning?,Keyword Search,5,doc_4,Document 3,0.047
+6,How can teachers analyze student performance?,Semantic Search,1,doc_7,Document 6,0.7853
+6,How can teachers analyze student performance?,Semantic Search,2,doc_10,Document 9,0.4486
+6,How can teachers analyze student performance?,Semantic Search,3,doc_1,Document 1,0.425
+6,How can teachers analyze student performance?,Semantic Search,4,doc_2,Document 10,0.287
+6,How can teachers analyze student performance?,Semantic Search,5,doc_8,Document 7,0.2841
+6,How can teachers analyze student performance?,Keyword Search,1,doc_7,Document 6,0.3608
+6,How can teachers analyze student performance?,Keyword Search,2,doc_1,Document 1,0.3306
+6,How can teachers analyze student performance?,Keyword Search,3,doc_3,Document 2,0.1466
+6,How can teachers analyze student performance?,Keyword Search,4,doc_6,Document 5,0.0895
+6,How can teachers analyze student performance?,Keyword Search,5,doc_2,Document 10,0.0612
+7,What is an intelligent tutoring system?,Semantic Search,1,doc_8,Document 7,0.8363
+7,What is an intelligent tutoring system?,Semantic Search,2,doc_1,Document 1,0.5575
+7,What is an intelligent tutoring system?,Semantic Search,3,doc_3,Document 2,0.5132
+7,What is an intelligent tutoring system?,Semantic Search,4,doc_5,Document 4,0.513
+7,What is an intelligent tutoring system?,Semantic Search,5,doc_9,Document 8,0.4936
+7,What is an intelligent tutoring system?,Keyword Search,1,doc_8,Document 7,0.333
+7,What is an intelligent tutoring system?,Keyword Search,2,doc_3,Document 2,0.2873
+7,What is an intelligent tutoring system?,Keyword Search,3,doc_9,Document 8,0.0
+7,What is an intelligent tutoring system?,Keyword Search,4,doc_10,Document 9,0.0
+7,What is an intelligent tutoring system?,Keyword Search,5,doc_6,Document 5,0.0
+8,How are chatbots used in education?,Semantic Search,1,doc_9,Document 8,0.8531
+8,How are chatbots used in education?,Semantic Search,2,doc_5,Document 4,0.6889
+8,How are chatbots used in education?,Semantic Search,3,doc_1,Document 1,0.4536
+8,How are chatbots used in education?,Semantic Search,4,doc_8,Document 7,0.4446
+8,How are chatbots used in education?,Semantic Search,5,doc_6,Document 5,0.4416
+8,How are chatbots used in education?,Keyword Search,1,doc_9,Document 8,0.1707
+8,How are chatbots used in education?,Keyword Search,2,doc_5,Document 4,0.1636
+8,How are chatbots used in education?,Keyword Search,3,doc_2,Document 10,0.1041
+8,How are chatbots used in education?,Keyword Search,4,doc_10,Document 9,0.0995
+8,How are chatbots used in education?,Keyword Search,5,doc_3,Document 2,0.097
+9,How does data science help educational institutions?,Semantic Search,1,doc_10,Document 9,0.863
+9,How does data science help educational institutions?,Semantic Search,2,doc_7,Document 6,0.5487
+9,How does data science help educational institutions?,Semantic Search,3,doc_3,Document 2,0.419
+9,How does data science help educational institutions?,Semantic Search,4,doc_1,Document 1,0.4166
+9,How does data science help educational institutions?,Semantic Search,5,doc_2,Document 10,0.4159
+9,How does data science help educational institutions?,Keyword Search,1,doc_10,Document 9,0.413
+9,How does data science help educational institutions?,Keyword Search,2,doc_7,Document 6,0.1219
+9,How does data science help educational institutions?,Keyword Search,3,doc_3,Document 2,0.0784
+9,How does data science help educational institutions?,Keyword Search,4,doc_4,Document 3,0.0446
+9,How does data science help educational institutions?,Keyword Search,5,doc_9,Document 8,0.0435
+10,Why is responsible AI important in education?,Semantic Search,1,doc_2,Document 10,0.7762
+10,Why is responsible AI important in education?,Semantic Search,2,doc_1,Document 1,0.5151
+10,Why is responsible AI important in education?,Semantic Search,3,doc_8,Document 7,0.4267
+10,Why is responsible AI important in education?,Semantic Search,4,doc_5,Document 4,0.4228
+10,Why is responsible AI important in education?,Semantic Search,5,doc_3,Document 2,0.3994
+10,Why is responsible AI important in education?,Keyword Search,1,doc_2,Document 10,0.3768
+10,Why is responsible AI important in education?,Keyword Search,2,doc_1,Document 1,0.1767
+10,Why is responsible AI important in education?,Keyword Search,3,doc_10,Document 9,0.0729
+10,Why is responsible AI important in education?,Keyword Search,4,doc_3,Document 2,0.0711
+10,Why is responsible AI important in education?,Keyword Search,5,doc_9,Document 8,0.0

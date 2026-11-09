@@ -1,0 +1,1 @@
+An Intelligent Tutoring System uses Artificial Intelligence to provide personalized guidance to students. It identifies knowledge gaps, provides feedback, and recommends suitable learning activities.

@@ -1,0 +1,1 @@
+Machine Learning is a branch of Artificial Intelligence that enables computers to learn from data. In education, machine learning predicts student performance, identifies learning patterns, and supports intelligent tutoring systems.
